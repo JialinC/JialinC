@@ -3,7 +3,7 @@ main:
   - title: Can pre-class GitHub contributions predict success by student teams?
     authors: <strong>Jialin Cui*</strong>, Runqiu Zhang, Ruochi Li, Kaida Lou, Chengyuan Liu, Yunkai Xiao, Qinjin Jia, Edward Gehringer
     conference_short: ICSE-SEET
-    conference: IEEE/ACM 44th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET), Pittsburgh and online, May 2022.
+    conference: IEEE/ACM 44th International Conference on Software Engineering - Software Engineering Education and Training (ICSE-SEET), Pittsburgh and online, May 2022.
     link: https://dl.acm.org/doi/abs/10.1145/3510456.3514144
     image: ./assets/img/paper1.png
 
