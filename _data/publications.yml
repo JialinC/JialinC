@@ -44,7 +44,7 @@ main:
     IEEE: https://ieeexplore.ieee.org/abstract/document/10343357
     image: ./assets/img/paper4.png
 
-  - title: Correlating students' class performance based on Github metrics: a statistical study
+  - title: Correlating students' class performance based on Github metrics - a statistical study
     authors: <strong>Jialin Cui*</strong>, Runqiu Zhang, Ruochi Li, Yang Song, Fangtong Zhou, Edward F. Gehringer
     conference_short: ITiCSE
     conference: 28th ACM conference on Innovation and Technology in Computer Science Education, Turku, Finland, July 10–12, 2023.
