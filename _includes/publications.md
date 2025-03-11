@@ -27,11 +27,20 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
-      {% if link.page %} 
+      {% if link.url %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      {% endif %}
+      {% if link.ACM %} 
+      <a href="{{ link.ACM }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ACM Digital Library</a>
+      {% endif %}
+      {% if link.IEEE %} 
+      <a href="{{ link.IEEE }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">IEEE Xplore</a>
+      {% endif %}
+      {% if link.journal %} 
+      <a href="{{ link.journal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Journal</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>

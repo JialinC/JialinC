@@ -1,94 +1,66 @@
 main:
 
+  - title: A Statistical Study of Female Students in a Software Engineering Class - Preparedness, Performance, and Contribution
+    authors: <strong>Jialin Cui*</strong>, Runqiu Zhang, Qinjin Jia, Fangtong Zhou, Ruochi Li, Edward F. Gehringer
+    conference_short: FIE
+    conference: 54th IEEE Frontiers in Education Conference, Washington DC, October 13-16, 2024.
+    IEEE: https://ieeexplore.ieee.org/document/10893315
+    image: ./assets/img/paper9.png
+
+  - title: How Much Effort Do You Need to Expend on a Technical Interview? A Study of LeetCode Problem Solving Statistics
+    authors: <strong>Jialin Cui*</strong>, Runqiu Zhang, Fangtong Zhou, Ruochi Li, Yang Song, Edward Gehringer
+    conference_short: CSEE&T
+    conference: 36 th Conference on Software Engineering Education and Training, Würzburg, Germany, July 29-August 1, 2024.
+    note: Best Paper Award
+    IEEE: https://ieeexplore.ieee.org/abstract/document/10663022
+    image: ./assets/img/paper8.png
+
+  - title: A Comparative Analysis of GitHub Contributions Before and After An OSS Based Software Engineering Class
+    authors: <strong>Jialin Cui*</strong>, Runqiu Zhang, Ruochi Li, Fangtong Zhou, Yang Song, Edward Gehringer
+    conference_short: ITiCSE
+    conference: 29th ACM conference on Innovation and Technology in Computer Science Education, Milan, Italy, July 8-10, 2024.
+    ACM: https://dl.acm.org/doi/abs/10.1145/3649217.3653535
+    image: ./assets/img/paper7.png
+    
+
+  - title: Utilizing the Constrained K-Means Algorithm and Pre-Class GitHub Contribution Statistics for Forming Student Teams
+    authors: <strong>Jialin Cui*</strong>, Fangtong Zhou, Chengyuan Liu, Qinjin Jia, Yang Song, Edward Gehringer
+    conference_short: ITiCSE
+    conference: 29th ACM conference on Innovation and Technology in Computer Science Education, Milan, Italy, July 8-10, 2024.
+    ACM: https://dl.acm.org/doi/abs/10.1145/3649217.3653634
+    image: ./assets/img/paper6.png
+
+  - title: How Pre-class Programming Experience Influences Students' Contribution to Their Team Project - A Statistical Study
+    authors: <strong>Jialin Cui*</strong>, Runqiu Zhang, Ruochi Li, Fangtong Zhou, Yang Song, Edward Gehringer
+    conference_short: SIGCSE
+    conference: 55th ACM Technical Symposium on Computer Science Education, Portland, OR, March 19-23, 2024.
+    ACM: https://dl.acm.org/doi/10.1145/3626252.3630870
+    image: ./assets/img/paper5.png
+
+  - title: Predicting students' software engineering class performance with machine learning and pre-class GitHub metrics
+    authors: <strong>Jialin Cui*</strong>, Fangtong Zhou, Runqiu Zhang, Ruochi Li, Chengyuan Liu, Edward F. Gehringer
+    conference_short: FIE
+    conference: 53rd IEEE Frontiers in Education Conference, College Station, TX, October 18-21, 2023.
+    IEEE: https://ieeexplore.ieee.org/abstract/document/10343357
+    image: ./assets/img/paper4.png
+
+  - title: Correlating students' class performance based on Github metrics: a statistical study
+    authors: <strong>Jialin Cui*</strong>, Runqiu Zhang, Ruochi Li, Yang Song, Fangtong Zhou, Edward F. Gehringer
+    conference_short: ITiCSE
+    conference: 28th ACM conference on Innovation and Technology in Computer Science Education, Turku, Finland, July 10–12, 2023.
+    ACM: https://dl.acm.org/doi/abs/10.1145/3587102.3588799
+    image: ./assets/img/paper3.png
+
   - title: Can pre-class GitHub contributions predict success by student teams?
     authors: <strong>Jialin Cui*</strong>, Runqiu Zhang, Ruochi Li, Kaida Lou, Chengyuan Liu, Yunkai Xiao, Qinjin Jia, Edward Gehringer
     conference_short: ICSE-SEET
-    conference: IEEE/ACM 44th International Conference on Software Engineering - Software Engineering Education and Training (ICSE-SEET), Pittsburgh and online, May 2022.
-    link: https://dl.acm.org/doi/abs/10.1145/3510456.3514144
+    conference: IEEE/ACM 44th International Conference on Software Engineering - Software Engineering Education and Training (ICSE-SEET), Pittsburgh, PA, May 22-24, 2022.
+    ACM: https://dl.acm.org/doi/abs/10.1145/3510456.3514144
+    image: ./assets/img/paper2.png
+
+  - title: A kernel principal component analysis of coexisting attractors within a generalized Lorenz model
+    authors: Jialin Cui, Bo-Wen Shen
+    conference_short: Chaos, Solitons & Fractals
+    conference: Chaos, Solitons & Fractals
+    journal: https://www.sciencedirect.com/science/article/pii/S0960077921002186
     image: ./assets/img/paper1.png
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
