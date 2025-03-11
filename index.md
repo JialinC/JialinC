@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I earned my Ph.D. from North Carolina State University. While I prefer writing code over writing papers, I developed [GitHub-Mole](https://jialinc.github.io/GitHubMole/) as part of my thesis. If you are a serious researcher, feel free to ignore me—I haven't published papers in top-tier conferences.😢
+I earned my Ph.D. from North Carolina State University. While I prefer writing code over writing papers, I developed [GitHub-Mole](https://jialinc.github.io/GitHubMole/) as part of my thesis. If you are a serious researcher, feel free to ignore me—I haven't published papers in top-tier conferences.😢 Oh, by the way, I can bench 335 lbs and squat 405 lbs—kind of okay, I guess? 🤔
 
 GitHub-Mole is a hybrid web/local application that can be deployed for collaborative use or operated locally for individual analysis. It enables users to mine and analyze comprehensive contribution histories of GitHub users while also assisting in the formation of software development teams using research-backed algorithms.
 
