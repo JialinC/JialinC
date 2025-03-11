@@ -41,7 +41,7 @@ font: "Serif" # or "Sans Serif"
 google_analytics: UA-111540567-4
 
 # remote_theme: yaoyao-liu/minimal-light
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/hacker
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
