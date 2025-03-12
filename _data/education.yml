@@ -1,0 +1,15 @@
+main:
+
+  - school: North Carolina State University
+    degree: Ph.D. in Computer Science
+    major: Computer Science
+    year: 2019 - 2025
+    GPA: 4.125/4.00
+    image: ./assets/img/ncsu.png
+
+  - school: San Diego State University
+    degree: Bachelor of Science
+    major: Computer Science, minor in Chemistry and Mathematics
+    year: 2014 - 2019
+    GPA: 3.98/4.00
+    image: ./assets/img/sdsu.png

@@ -16,7 +16,7 @@ GitHub-Mole has been used in the graduate-level course CSC/ECE 517: Object-Orien
 
 - **Software Engineering:** image recognition, image generation, video captioning
 - **Data Science:** meta-learning, incremental learning, transfer learning -->
-
+{% include_relative _includes/education.md %}
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
