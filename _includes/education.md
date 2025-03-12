@@ -17,8 +17,7 @@
       <div class="degree">{{ link.degree }}</div>
       <div class="major">{{ link.major }}</div>
       <div class="year">{{ link.year }}</div>
-      <div class="GPA">{{ link.GPA }}</div>
-      </div>
+      <div class="GPA">GPA: {{ link.GPA }}</div>
   </div>
 </div>
 </li>
