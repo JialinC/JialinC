@@ -4,8 +4,6 @@
 <ol class="bibliography">
 
 {% for link in site.data.education.main %}
-
-<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
@@ -20,9 +18,7 @@
       <div class="GPA">GPA: {{ link.GPA }}</div>
   </div>
 </div>
-</li>
 <br>
-
 {% endfor %}
 
 </ol>
